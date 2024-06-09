@@ -1,6 +1,9 @@
 # start web container
-## docker-compose up --build
+## If running local, use `npm start` and change the target url in `setupProxy.js` file.
+## [Otherwise] running using docker
+### docker-compose up --build
 
+## Results
 ![image info](./assets/pic1.png)
 ![image info](./assets/pic2.png)
 ![image info](./assets/pic3.png)
